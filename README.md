@@ -1,48 +1,8 @@
-<h1>Lous</h1>
+![alt text example](https://i.scdn.co/image/ab67616d00001e029ac25596157be5a47bd0063a)
+# Lous 
+Brazil - They/them\
+[Pronouns page](https://en.pronouns.page/@Lous) - [Neocities](https://lous-webhome.neocities.org/)
 <!--<b>Contato:</b> EmailProfissional@gmail.com-->
-
-
-<!--
-<h2>Experiências</h2>
-<ul>
-  <li>
-    <b>Nome 1</b> - Cargo
-    <br><br>
-    <i>Data início - Data fim</i>
-    <br>
-    Descrição
-  </li>
-  <li>
-    <b>Nome 2</b> - Cargo
-    <br><br>
-    <i>Data início - Data fim</i>
-    <br>
-    Descrição
-  </li>
-</ul>
-
-<h2>Formação</h2>
-<ul>
-  <li>
-    <b>Nome 2</b> - Nível
-    <br><br>
-    <i>Data início - Data fim</i>
-    <br>
-    Descrição?
-  </li>
-  <li>
-    <b>Nome 2</b> - Nível
-    <br><br>
-    <i>Data início - Data fim</i>
-    <br>
-    Descrição
-  </li>
-</ul>
--->
-
-![alt text]([http://url/to/img.png](https://i.pinimg.com/474x/58/51/71/585171e58d643ab6ce7c04241f97f089.jpg))
-
-[Contribution guidelines for this project](img/)
 
 <!--
 **3342347/3342347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
